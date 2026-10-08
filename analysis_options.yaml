@@ -1,0 +1,6 @@
+include: package:lints/recommended.yaml
+
+linter:
+  rules:
+    # Це навчальні консольні програми, тому print дозволено.
+    avoid_print: false
