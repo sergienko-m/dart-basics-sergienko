@@ -1,0 +1,17 @@
+# Dart / Pub
+.dart_tool/
+.packages
+build/
+pubspec.lock
+doc/api/
+
+# Покриття тестами
+coverage/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Згенеровані результати роботи програм
+output/
